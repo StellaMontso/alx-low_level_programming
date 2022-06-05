@@ -36,7 +36,8 @@ int main(void)
 				g++;
 			}
 			i++;
-		}e++;
+		}
+		e++;
 	}
 	putchar('\n');
 	return (0);
