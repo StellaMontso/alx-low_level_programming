@@ -1,4 +1,5 @@
-nclude <main.h>
+nclude <unistd.h>
+#include "main.h"
 
 /**
  * _putchar - writes the character c to stdout
